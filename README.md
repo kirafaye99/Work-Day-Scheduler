@@ -13,6 +13,6 @@ This website is designed to make the best of your day by creating a schedule. Th
 5. Close the page if you wish and come back to reference later.
 6. After all tasks are complete, press the clear button at the bottom to start over.
 
-![Clear Schedule](https://raw.github.com/kirafaye99/Work-Day-Scheduler/main/scheduler clear.PNG)
+![Clear Schedule](https://raw.github.com/kirafaye99/Work-Day-Scheduler/main/scheduler-clear.PNG)
 
 Access the page [here](https://kirafaye99.github.io/Work-Day-Scheduler/)!
