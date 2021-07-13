@@ -1,4 +1,4 @@
-# Work-Day-Scheduler
+# Work Day Scheduler
 
 ![scheduler example](https://user-images.githubusercontent.com/82430185/125522749-c8b77a5a-0c1d-44b6-84cf-e26a9bfb89bc.PNG)
 
